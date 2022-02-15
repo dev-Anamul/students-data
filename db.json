@@ -1,0 +1,180 @@
+{
+  "student": [
+    {
+      "id": 12,
+      "Name": "Anamul Haque",
+      "Loc": "Savar, Dhaka",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/3760539/pexels-photo-3760539.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 1,
+      "Name": "Rakib Adnan",
+      "Loc": "Bogura",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/8443969/pexels-photo-8443969.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 2,
+      "Name": "Priyaka das",
+      "Loc": "Magura",
+      "Gender": "Female",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/3014853/pexels-photo-3014853.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 3,
+      "Name": "Uttam Kimar",
+      "Loc": "Natore",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/3217111/pexels-photo-3217111.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 4,
+      "Name": "Mamun Islam",
+      "Loc": "Rangpur",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/3480329/pexels-photo-3480329.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 5,
+      "Name": "Abu sayeed",
+      "Loc": "Cumilla",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/3775582/pexels-photo-3775582.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 6,
+      "Name": "Yameen Hossain",
+      "Loc": "Bogura",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/3724372/pexels-photo-3724372.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 7,
+      "Name": "Soniya Bariki",
+      "Loc": "Netrokona",
+      "Gender": "Female",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/7222852/pexels-photo-7222852.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 8,
+      "Name": "Ratna Akter",
+      "Loc": "Dhunot",
+      "Gender": "Female",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/4522534/pexels-photo-4522534.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 9,
+      "Name": "Sayeem",
+      "Loc": "Kuri-Gram",
+      "Gender": "Male",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/8584505/pexels-photo-8584505.png?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    },
+    {
+      "id": 10,
+      "Name": "Humayra",
+      "Loc": "Rajshahi",
+      "Gender": "Female",
+      "age": 24,
+      "img": "https://images.pexels.com/photos/4347368/pexels-photo-4347368.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "marks": {
+        "Bangla": 33,
+        "English": 40,
+        "math": 45,
+        "Science": 85,
+        "Accounting": 78,
+        "Religion": 85
+      }
+    }
+  ]
+}
